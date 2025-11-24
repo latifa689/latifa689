@@ -1,41 +1,24 @@
-🌸 Latifa — Computer Programmer
-alt="Latifa GitHub README header image"> <p> <a href="#"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="#"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> </p>
-✨ About Me
+<h2> Hi, I'm Latifa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> <p> <em> Software Programmer 👩‍💻 <br> Learning HTML & Python <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </em> </p> <!-- Social Badges -->
 
-Hi! I'm Latifa, a passionate computer programmer who enjoys learning new technologies and building simple projects.
-I mainly work with HTML and Python, and I’m always excited to improve my skills and explore more in the world of programming 🚀
+<a href="#"><img src="https://img.shields.io/badge/-latifa-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=follow&style=social" /></a>
 
-🛠️ Skills
+🔧 Languages & Tools
 
-HTML
+Here are the technologies I work with:
 
-Python
+<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </p>  <img src="https://img.shields.io/badge/Javascript-purple?style=for-the-badge&logo=javascript&logoColor=white" /> 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-📚 My Projects
 
-(You can add your projects here later — tell me and I’ll format them beautifully!)
-
-🌐 Portfolio Website (coming soon)
-
-🐍 Python Mini Apps
-
-🎨 HTML learning projects
-
-📊 GitHub Stats
-<p> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats"> </p>
-
-Replace YOUR_GITHUB_USERNAME with your GitHub username.
-
-☕ Support
-
-If you like my work or want to connect, feel free to reach out! 💛
-
-🌐 Social Links
-
-(Replace the # with your real links)
-
-Twitter
-
-Instagram
-
-LinkedIn
+```javascript
+latifa = {
+    "pronouns": "she/her",
+    "code": ["HTML", "Python"],
+    "learning": ["Web Development", "Basic Programming"],
+    "tools": ["VS Code", "Git", "GitHub"],
+    "goals": [ "Learn frontend basics",
+        "Build my first personal website",
+        "Create simple Python projects" ],
+    "challenge": "Improving my Python and HTML skills every day"}
