@@ -11,12 +11,12 @@ Here are the technologies I work with:
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 
+
 ```javascript
 
-<img src="images/g-blue.jpg" alt="latifa689" width="150"/>
- 
-I am passionate about **cybersecurity, networking, and software development**, with hands-on experience in
- analyzing security incidents and designing defensive strategies for enterprise networks.
+I am passionate about **cybersecurity, networking, and software development**,
+ with hands-on experience in analyzing security incidents and designing defensive
+strategies for enterprise networks.
 
 
 ## 🛠️ Skills & Expertise
@@ -37,11 +37,7 @@ Check out my pinned repositories for detailed work.
 
 
 ## 📈 GitHub Stats
-![Lulu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=latifa689&show_icons=true&theme=dark)
-
-
-
-
+![latifa689](https://github-readme-stats.vercel.app/api?username=latifa689 &show_icons=true&theme=dark)
 
 	“Learning never stops, and cybersecurity is an endless adventure.”
 
