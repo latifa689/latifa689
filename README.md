@@ -1,5 +1,5 @@
 <h2> Hi, I'm Latifa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' g-blue.jpg [my profile picture]" width="230">
+<img align='rightg-blue.jpg [my profile picture]" width="230">
 
 🔧 Languages & Tools
 
