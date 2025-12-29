@@ -2,8 +2,7 @@
 Welcome to my GitHub profile! 
 
 I am passionate about **cybersecurity, networking, and software development**,
-
- with hands-on experience in analyzing security incidents and designing defensive
+with hands-on experience in analyzing security incidents and designing defensive
 strategies for enterprise networks.
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> <p> <em> Software Programmer 👩‍💻 <br> Learning HTML & Python <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </em> </p> <!-- Social Badges -->
 
