@@ -22,7 +22,7 @@ latifa = {
         "Create simple Python projects" ],
     "challenge": "Improving my Python and HTML skills every day"}
 
-<img src="images/profile-pic.png" alt="Profile Picture" width="150"/>
+<img src="images/g-blue.jpg" alt="Profile Picture" width="150"/>
  
 I am passionate about **cybersecurity, networking, and software development**, with hands-on experience in
  analyzing security incidents and designing defensive strategies for enterprise networks.
