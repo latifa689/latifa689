@@ -12,15 +12,6 @@ Here are the technologies I work with:
 
 
 ```javascript
-latifa = {
-    "pronouns": "she/her",
-    "code": ["HTML", "Python"],
-    "learning": ["Web Development", "Basic Programming"],
-    "tools": ["VS Code", "Git", "GitHub"],
-    "goals": [ "Learn frontend basics",
-        "Build my first personal website",
-        "Create simple Python projects" ],
-    "challenge": "Improving my Python and HTML skills every day"}
 
 <img src="images/g-blue.jpg" alt="latifa689" width="150"/>
  
