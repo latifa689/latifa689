@@ -1,10 +1,9 @@
 <h2> Hi, I'm Latifa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+Welcome to my GitHub profile! 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> <p> <em> Software Programmer 👩‍💻 <br> Learning HTML & Python <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </em> </p> <!-- Social Badges -->
 
 <a href="#"><img src="https://img.shields.io/badge/-latifa-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=follow&style=social" /></a>
-
-🔧 Languages & Tools
 
 Here are the technologies I work with:
 
@@ -24,12 +23,9 @@ latifa = {
     "challenge": "Improving my Python and HTML skills every day"}
 
 <img src="images/profile-pic.png" alt="Profile Picture" width="150"/>
-
-# 👋 Hi, I'm Lulu
-
-Welcome to my GitHub profile!  
-
-I am passionate about **cybersecurity, networking, and software development**, with hands-on experience in analyzing security incidents and designing defensive strategies for enterprise networks.
+ 
+I am passionate about **cybersecurity, networking, and software development**, with hands-on experience in
+ analyzing security incidents and designing defensive strategies for enterprise networks.
 
 
 ## 🛠️ Skills & Expertise
@@ -53,10 +49,7 @@ Check out my pinned repositories for detailed work.
 ![Lulu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
 
 
-## 📫 Contact Me
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- Twitter: [@your_handle](https://twitter.com/your_handle)
+
 
 
 	“Learning never stops, and cybersecurity is an endless adventure.”
