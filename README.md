@@ -1,5 +1,5 @@
 <h2> Hi, I'm Latifa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> <p> <em> Software Programmer 👩‍💻 <br> Learning HTML & Python <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </em> </p> <!-- Social Badges -->
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> <p> <em> Software Programmer 👩‍💻 <br> Learning HTML & Python <img src="profile-g-blue.png[my profile picture]" width="30"> </em> </p> <!-- Social Badges -->
 
 <a href="#"><img src="https://img.shields.io/badge/-latifa-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=follow&style=social" /></a>
