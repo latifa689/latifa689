@@ -38,7 +38,7 @@ Check out my pinned repositories for detailed work.
 
 
 ## 📈 GitHub Stats
-![Latifa Github State](https://github-readme-stats.vercel.app/api?username=latifa689&show_icons=true&theme=dark)
+![Latifa Github State](https://github-readme-stats.vercel.app/api?username=latifa689&show_icons=true&theme=radical)
 
 	“Learning never stops, and cybersecurity is an endless adventure.”
 
