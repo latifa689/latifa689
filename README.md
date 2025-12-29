@@ -46,7 +46,7 @@ Check out my pinned repositories for detailed work.
 
 
 ## 📈 GitHub Stats
-![Lulu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Lulu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=latifa689&show_icons=true&theme=dark)
 
 
 
