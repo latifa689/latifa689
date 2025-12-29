@@ -1,5 +1,6 @@
 <h2> Hi, I'm Latifa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 Welcome to my GitHub profile! 
+
 I am passionate about **cybersecurity, networking, and software development**,
  with hands-on experience in analyzing security incidents and designing defensive
 strategies for enterprise networks.
