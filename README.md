@@ -1,7 +1,6 @@
 <h2> Hi, I'm Latifa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 Welcome to my GitHub profile! 
-
 <img align='right' src="g-blue.jpg" width="230"> <p> <em> Computer Programmer 👩‍💻
 
 
@@ -12,9 +11,7 @@ Welcome to my GitHub profile!
 
 
 I am interested in "Cybersecurity, Networking, and Programming"
-
 and I am currently learning to analyze security incidents and
-
 practice network protection techniques in educational labs and courses.
 
 ```javascript
