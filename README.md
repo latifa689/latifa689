@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! 
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> <p> <em> Computer Programmer 👩‍💻
-<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </em> </p> <!-- Social Badges -->
 
 <a href="#"><img src="https://img.shields.io/badge/-latifa-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/github/followers/latifa689?label=follow&style=social" /></a>
@@ -52,31 +51,6 @@ Basic understanding of Bash or PowerShell
 
 Working with variables, conditions, loops, and functions
 
-🧰 Tools
-
-Beginner-level use of tools such as Nmap and Wireshark
-
-Exposure to penetration testing tools in educational environments
-
-Working with Linux systems (Kali Linux, Ubuntu)
-
-📚 Learning & Development
-
-Ability to learn independently and research technical solutions
-
-Participation in hands-on labs and courses (TryHackMe, Hack The Box – Beginner)
-
-Understanding basic documentation and technical note-taking
-
-📝 Documentation & Soft Skills
-
-Writing simple technical reports
-
-Organizing notes using Markdown
-
-Teamwork and problem-solving skills
-
-Time management and continuous learning
 
 ## 📂 Projects
 
