@@ -1,15 +1,10 @@
 <h2> Hi, I'm Latifa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 Welcome to my GitHub profile! 
-<img align='right' src="g-blue.jpg" width="230"> <p> <em> Computer Programmer 👩‍💻
-
-
-
-
-
-
-
    
+<img align='right' src="g-blue.jpg" width="230">
+<p> <em> Computer Programmer 👩‍💻
+
 <a href="#"><img src="https://img.shields.io/badge/-latifa-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/github/followers/latifa689?label=follow&style=social" /></a>
 
