@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! 
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> <p> <em> Computer Programmer 👩‍💻
-<img align='right' src="g-blue.jpg" width="230">
+<img align='right' src="g-blue.jpg" width="230"> <p> <em> Computer Programmer 👩‍💻
+
 
 <a href="#"><img src="https://img.shields.io/badge/-latifa-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/github/followers/latifa689?label=follow&style=social" /></a>
@@ -11,9 +11,11 @@ Welcome to my GitHub profile!
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 
-I am interested in "Cybersecurity, Networking, and Programming",
-and I am currently learning to analyze security incidents and practice 
-network protection techniques in educational labs and courses.
+I am interested in "Cybersecurity, Networking, and Programming"
+
+and I am currently learning to analyze security incidents and
+
+practice network protection techniques in educational labs and courses.
 
 ```javascript
 
