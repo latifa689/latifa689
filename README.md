@@ -10,10 +10,9 @@ Welcome to my GitHub profile!
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 
-I am passionate about **cybersecurity, networking, and software development**,
-with hands on experience in analyzing security incidents and designing defensive
-strategies for enterprise networks.
-
+I am interested in "cybersecurity, networking, and programming,
+and I am currently learning to analyze security incidents and practice 
+network protection techniques in educational labs and courses".
 
 ```javascript
 
@@ -53,8 +52,6 @@ Working with variables, conditions, loops, and functions
 
 
 ## 📂 Projects
-
-Here are some learning projects I have worked on:
 
 - **Cybersecurity Attack Analysis (Cisco 2025) **  
   Educational case study to understand a cybersecurity attack and its exploitation
